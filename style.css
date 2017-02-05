@@ -1,0 +1,19 @@
+body{
+	background-color: #252524;
+	
+	}
+div{
+	margin:  auto 5%;
+}
+h1{
+	font: 24px Verdana, Arial, Tahoma, sans-serif;
+	color: #d1c8b5;
+	text-align: center;
+	text-shadow: 2px 2px 0px #000000;
+}
+ p { 
+    text-indent: 1.5em; 
+    text-align: justify;
+    color:  #bebebd;
+   font-size: 17px;
+   }
